@@ -133,3 +133,7 @@ th {
 nav a{
     cursor: auto;
 }
+
+nav a:hover {
+    margin-bottom: -15px;
+}
