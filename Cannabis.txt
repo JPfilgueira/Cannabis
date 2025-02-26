@@ -1,0 +1,56 @@
+Integrantes: Marina Schneider, Beatriz Santos e Felipe Oliveira
+Tema do Site:
+Cannabis Medicinal: Informação, Tratamentos e Pesquisa
+Número de Páginas:
+4 páginas
+Conteúdo de Cada Página:
+
+
+Página 1: Página Inicial - "Bem-vindo ao Mundo da Cannabis Medicinal"
+Breve Descrição: A página terá uma introdução sobre o uso medicinal da cannabis, destacando os principais benefícios terapêuticos e as pesquisas científicas. Incluirá também uma visão geral das seções do site, como informações sobre tratamentos, regulamentação e estudos de caso.
+
+Elementos principais: Imagem de destaque com infográfico sobre a cannabis medicinal, breve texto de boas-vindas, algo bem colorido com links para as outras páginas do site.
+
+
+Página 2: Tratamentos - "Como a Cannabis Medicinal Pode Ajudar"
+Breve Descrição: Esta página abordará como a cannabis é usada no tratamento de várias condições de saúde e os diferentes produtos à base de cannabis (óleos, cápsulas, cremes) e como eles podem ser administrados.
+
+Elementos principais: Texto explicativo, tabelas comparativas de tipos de tratamentos, depoimentos de pacientes, links para estudos científicos sobre eficácia.
+
+
+Página 3: Regulamentação - "Entenda as Leis e a Regulamentação da Cannabis Medicinal"
+Breve Descrição: Esta página fornecerá informações detalhadas sobre a regulamentação da cannabis medicinal em diferentes países e estados, com foco na legislação brasileira. Explicará como a cannabis medicinal é controlada, o processo de prescrição e as questões legais envolvidas.
+
+Elementos principais: Texto explicativo sobre a legislação, gráficos de comparação entre países, links para sites de órgãos governamentais e estudos sobre regulamentação.
+
+
+Página 4: Pesquisa e Avanços - "A Ciência por Trás da Cannabis Medicinal"
+Breve Descrição: A página de pesquisa se concentrará nas descobertas científicas mais recentes sobre o uso medicinal da cannabis. Incluirá resumos de estudos clínicos, entrevistas com especialistas e discussões sobre futuras possibilidades de tratamentos.
+
+Elementos principais: Resumos de artigos de pesquisa, gráficos de avanços em tratamentos, links para revistas científicas e sites de organizações de pesquisa.
+
+
+Links Entre Páginas:
+Página Inicial terá links para Tratamentos, Regulamentação, e Pesquisa e Avanços.
+
+Tratamentos terá links de retorno para a Página Inicial e links para Pesquisa e Avanços para fornecer uma base científica sobre o que foi discutido.
+
+Regulamentação terá links para a Página Inicial e poderá conter links externos para órgãos governamentais e fontes legais.
+
+Pesquisa e Avanços terá links de volta para a Página Inicial e links para sites de revistas científicas.
+
+
+Links para Sites Externos:
+Regulamentação pode conter links para sites externos, como:
+
+ANVISA (Agência Nacional de Vigilância Sanitária): Informações sobre regulamentação e legislação no Brasil.
+
+OMS (Organização Mundial da Saúde): Relatórios globais sobre o uso medicinal da cannabis.
+
+Pesquisa e Avanços pode incluir links para publicações científicas, como:
+
+PubMed: Para pesquisas científicas e artigos médicos relacionados à cannabis.
+
+NIH (National Institutes of Health): Informações sobre estudos clínicos e avanços em tratamentos.
+
+
