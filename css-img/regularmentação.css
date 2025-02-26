@@ -1,0 +1,137 @@
+main{
+    width: 100%;
+    display: flex;
+    background: url(img/regularmento.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.fundoMain{
+    background-color: rgba(0, 0, 0, 0.250);
+    width: 100%;
+}
+
+.caixaConteudo1{
+    display: flex;
+    margin: 0 auto;
+    width: 1500px;
+}
+
+.conteudo{
+    background-color: rgba(165, 165, 165, 0.600);
+    color: white;
+    width: 560px;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+.conteudo2{
+    background-color: rgba(165, 165, 165, 0.600);
+    color: white;
+    width: 560px;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+.conteudo2 h1{
+    width: 450px;
+}
+
+.conteudo h4,
+.conteudo2 h4
+{
+    font-size: 20px;
+    padding: 5px;
+}
+
+.conteudo2 a, h5,
+.conteudo a, h5{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+.conteudo a,
+.conteudo2 a{
+    color: rgb(241, 42, 42);
+    font-weight: bold;
+}
+
+.conteudo a:hover,
+.conteudo2 a:hover{
+    color: rgb(189, 25, 25);
+}
+
+.conteudo3 {
+    background-color: rgba(165, 165, 165, 0.600);
+    color: white;
+    width: 560px;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #006400;
+    color: #fff;
+}
+
+.conteudo4 {
+    background-color: rgba(165, 165, 165, 0.600);
+    color: white;
+    width: 560px;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.conteudo4 h1 {
+    width: 450px;
+}
+
+.conteudo4 h4 {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.conteudo4 a, .conteudo4 h5 {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+.conteudo4 a {
+    color: rgb(241, 42, 42);
+    font-weight: bold;
+}
+
+.conteudo4 a:hover {
+    color: rgb(189, 25, 25);
+}

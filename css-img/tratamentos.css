@@ -1,0 +1,99 @@
+body {
+    background-image: url(img/cannabis.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.texto {
+    background-color: rgba(128, 128, 128, 0.61);
+    text-align: center;
+    padding: 7px;
+    border-radius: 15px;
+    width: 55%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    font-size: 16px;
+    animation: aparecer 7s;
+}
+
+@keyframes aparecer {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+}
+
+.texto {
+    background-color: rgba(128, 128, 128, 0.61);
+    text-align: center;
+    padding: 17px;
+    border-radius: 15px;
+    width: 55%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    font-size: 16px;
+    animation: aparecer 7s;
+}
+
+.img {
+    border-radius: 20px;
+    padding: 25px;
+    background-color: rgba(255, 0, 0, 0.384);
+    margin: 0 auto;
+    width: 450px;
+    margin-left: 25px;
+}
+
+.strong {
+    font-size: 25px;
+    color: greenyellow;
+}
+
+.link {
+    font-size: 20px;
+    margin: 5px;
+    transition: 1s;
+}
+
+.link:hover {
+    color: rgb(251, 255, 32);
+    text-decoration: solid;
+}
+
+.texto2 {
+    background-color: rgba(128, 128, 128, 0.61);
+    padding: 25px;
+    border-radius: 15px;
+    width: 30%;
+    margin-bottom: 50px;
+    font-size: 16px;
+    animation: aparecer 7s;
+    margin: 0 auto;
+    transition: 1s;
+}
+
+.texto2:hover {
+    background-color: gray;
+    transform: translateY(-25px);
+}
+
+#textos {
+    display: flex;
+}
+
+.textoDoTexto {
+    text-align: center;
+}
+
+ul {
+    background-color: rgba(68, 68, 68, 0.61);
+    padding: 25px;
+    border-radius: 15px;
+    display: inline-block;
+}
