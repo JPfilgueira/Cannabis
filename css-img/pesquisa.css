@@ -129,3 +129,7 @@ th {
 .conteudo4 a:hover {
     color: rgb(189, 25, 25);
 }
+
+nav img{
+    cursor: auto;
+}
